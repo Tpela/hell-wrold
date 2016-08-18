@@ -1,2 +1,2 @@
 # hell-wrold
-hello，this is HR work in a DL-Company .
+hello，this is HR work in  DL-Company .
